@@ -29,9 +29,6 @@ class Nav extends Component {
                     <li className="nav-item">
                       <a className="nav-link" href="about.html">Tentang</a>
                     </li>
-                    <li className="nav-item">
-                      <a className="nav-link" href="contact.html">Login</a>
-                    </li>
                   </ul>
                 </div>
               </div>
